@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bonjour! 👋
+Je suis **On Hamza**, je suis francophone et je suis un p'tit développeur __back-end__!
 
-<!--
-**OnHamzaYT/OnHamzaYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mes compétences 💫
+ ![](https://i.imgur.com/lbz51f9.png)
+- J'utilise et maitrise NodeJS.
+Je peux réaliser des projets complexes avec NodeJS.
+Je peux également créer des robots sur les réseaux sociaux en utilisant NodeJS.
 
-Here are some ideas to get you started:
+ ![](https://i.imgur.com/jHqJKXy.png)
+ - Je maitrise les langages informatiques utilisés pour les sites web
+ ( HTML  / CSS  / JS  ) et je maitrise également PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Me contacter
+Disponible Contact.onhamza@gmail.com 💚
+
+## À Bientôt!
