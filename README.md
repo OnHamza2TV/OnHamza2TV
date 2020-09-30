@@ -12,6 +12,8 @@ Je peux également créer des robots sur les réseaux sociaux en utilisant NodeJ
  ( HTML  / CSS  / JS  ) et je maitrise également PHP.
 
 # Me contacter
-Disponible Contact.onhamza@gmail.com 💚
+
+[<img align="left" alt="On Hamza - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="On Hamza - Discord" width="22px" src="https://cdn.discordapp.com/emojis/693493074277695647.png" />][discord]
 
 ## À Bientôt!
