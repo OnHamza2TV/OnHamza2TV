@@ -13,7 +13,7 @@ Je peux également créer des robots sur les réseaux sociaux en utilisant NodeJ
 
 # Me contacter
 
-[<img align="left" alt="On Hamza - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="On Hamza - Discord" width="22px" src="https://cdn.discordapp.com/emojis/693493074277695647.png" />]
+<img align="left" alt="On Hamza - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="On Hamza - Discord" width="22px" src="https://cdn.discordapp.com/emojis/693493074277695647.png" />
 
 ## À Bientôt!
