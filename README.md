@@ -1,18 +1,16 @@
-# Bonjour! 👋
-Je suis **On Hamza**, je suis francophone et je suis un p'tit développeur __front-end__!
+## 👋 Hey I am Hamza !
 
-# Mes compétences 💫
- ![](https://i.imgur.com/lbz51f9.png)
-- J'utilise et maitrise NodeJS.
-Je peux réaliser des projets complexes avec NodeJS.
-Je peux également créer des robots sur les réseaux sociaux en utilisant NodeJS.
+- 🔭 I’m currently working on a Developer and graphiste studio : [Trusted-making](https://trusted-making.eu)
+- 📫 How to reach me: [Discord](https://discord.com/users/921476203892858890)
+- 💻 I use [Atom Text Editor](https://atom.io/) as editor but I love Sublime Text too.
+- 🥖 I live in Rochefort, in France
+- 🎶 I like listenning music. Specially liste to RK and jul
+- 🔧 Skills: NodeJs, PHP, Javascript, HTML and express js
 
- ![](https://i.imgur.com/jHqJKXy.png)
- - Je maitrise les langages informatiques utilisés pour les sites web
- ( HTML  / CSS  / JS  ) et je maitrise également PHP.
+## My Github stats
 
-# Mes Stats
+[![OnHamza2TV's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnHamza2TV)](https://github.com/anuraghazra/github-readme-stats)
 
-[![OnHamzaYT's github stats](https://github-readme-stats.vercel.app/api?username=OnHamzaYT)](https://github.com/anuraghazra/github-readme-stats)
+## Request help
+- You can contact me on private messages, on [Discord](https://discord.com/users/921476203892858890).
 
-## À Bientôt!
