@@ -11,6 +11,10 @@
 
 [![OnHamza2TV's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnHamza2TV)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Skills
+
+[![Languages skills](https://github-readme-stats.vercel.app/api/top-langs/?username=OnHamza2TV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Request help
 - You can contact me on private messages, on [Discord](https://discord.com/users/853268210899353600).
 
