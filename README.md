@@ -14,7 +14,7 @@
 
 ## My Skills
 
-[![Languages skills](https://github-readme-stats.vercel.app/api/top-langs/?username=OnHamza2TV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Request help
 - You can contact me on private messages, on [Discord](https://discord.com/users/853268210899353600).
