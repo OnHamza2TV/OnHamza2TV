@@ -17,4 +17,3 @@
 
 ## Request help
 - You can contact me on private messages, on [Discord](https://discord.com/users/853268210899353600).
-
