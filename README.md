@@ -6,6 +6,7 @@
 - 🥖 I live in Rochefort, in France
 - 🎶 I like listenning music. Specially liste to RK and jul
 - 🔧 Skills: NodeJs, PHP, Javascript, HTML and express js
+- 🎒 I have created some npm packages [Discord-facilmusic](https://www.npmjs.com/package/discord-facilmusic) and [discord-symbole](https://www.npmjs.com/package/discord-symbole)
 
 ## My Github stats
 
