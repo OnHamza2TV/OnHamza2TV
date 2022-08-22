@@ -10,11 +10,13 @@
 
 ## My Github stats
 
-[![OnHamza2TV's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnHamza2TV)](https://github.com/anuraghazra/github-readme-stats)
+   <a href="https://github.com/OnHamza2TV"><img alt="Statistiques Github de OnHamza2TV" src="https://github-readme-stats.vercel.app/api?username=OnHamza2TV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 
 ## My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnHamza2TV=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/OnHamza2TV"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnHamza2TV&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 ## Request help
 - You can contact me on private messages, on [Discord](https://discord.com/users/853268210899353600).
